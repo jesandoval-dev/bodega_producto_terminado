@@ -5,3 +5,4 @@
 <img width="407" height="377" alt="Screenshot 2025-12-22 152654" src="https://github.com/user-attachments/assets/57b64eb7-69de-48e2-8876-ba0746068c90" /> <Fotos FCL>
 <img width="610" height="607" alt="image" src="https://github.com/user-attachments/assets/fdc2166e-e272-440a-9cab-d98ddbb9e67b" /> <Inventario PT>
 <img width="889" height="705" alt="Screenshot 2025-12-24 084006" src="https://github.com/user-attachments/assets/16df79d4-3fd5-4799-8172-aa93d266891b" /> <Correo>
+<img width="512" height="512" alt="Asistencia" src="https://github.com/user-attachments/assets/f375c009-6022-485a-a185-1122a59f3ff6" /> <Asistencia>

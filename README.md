@@ -6,3 +6,4 @@
 <img width="610" height="607" alt="image" src="https://github.com/user-attachments/assets/fdc2166e-e272-440a-9cab-d98ddbb9e67b" /> <Inventario PT>
 <img width="889" height="705" alt="Screenshot 2025-12-24 084006" src="https://github.com/user-attachments/assets/16df79d4-3fd5-4799-8172-aa93d266891b" /> <Correo>
 <img width="512" height="512" alt="Asistencia" src="https://github.com/user-attachments/assets/f375c009-6022-485a-a185-1122a59f3ff6" /> <Asistencia>
+![Detalle PR](https://github.com/user-attachments/assets/4ecfcad7-fe80-4639-afc1-c1d283a70472)

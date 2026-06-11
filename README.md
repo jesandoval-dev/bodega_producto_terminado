@@ -8,3 +8,5 @@
 <img width="512" height="512" alt="Asistencia" src="https://github.com/user-attachments/assets/f375c009-6022-485a-a185-1122a59f3ff6" /> <Asistencia>
 ![Detalle PR](https://github.com/user-attachments/assets/4ecfcad7-fe80-4639-afc1-c1d283a70472)
 <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/fca51ba1-d7a9-47d2-ac2b-a3ec0ae865aa" /> <Logo2>
+
+<img width="512" height="512" alt="Output" src="https://github.com/user-attachments/assets/be4c86dd-3420-4ab0-8217-acd3afb959c3" /> <Output>
